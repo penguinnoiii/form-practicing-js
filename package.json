@@ -1,0 +1,15 @@
+{
+  "name": "form",
+  "module": "form.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@inquirer/figures": "^1.0.7",
+    "inquirer": "^12.0.1"
+  }
+}
